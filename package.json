@@ -18,5 +18,6 @@
   ],
   "author": "Edwin Maldonado",
   "license": "MIT",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "private": true
 }
